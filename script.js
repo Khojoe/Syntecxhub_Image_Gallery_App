@@ -168,6 +168,13 @@ const images = [
     category: "Anime",
     featured: false,
   },
+  {
+    id: 25,
+    src: "../Luffy(gear5)_one_piece.jpg",
+    title: "Anime motivation",
+    category: "Anime",
+    featured: true,
+  },
 ];
 
 /* ─── STATE ─── */
